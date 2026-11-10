@@ -1,0 +1,6 @@
+{
+  "name": "PropPulse — Real Estate Automation & Leads OS",
+  "description": "Real estate automation command center for agency owners and agents: 24/7 WhatsApp AI, automated price-change outreach, photo-to-selling-video studio, and map-based lead extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
